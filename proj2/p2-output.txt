@@ -1,0 +1,92 @@
+Initial Player 1: 3h, 4d, 4s, 5d, 6h, 9c, td, jc, jd
+Initial Player 2: ad, ah, 2c, 4h, 7h, tc, ts, js, qc
+Player 1
+	Added: 7d
+	Discarded: td
+	Hand now: 3h, 4d, 4s, 5d, 6h, 7d, 9c, jc, jd
+Player 2
+	Added: td
+	Discarded: tc, td, ts, qc
+	Hand now: ad, ah, 2c, 4h, 7h, js
+Player 1
+	Added: 6s
+	Discarded: 9c
+	Hand now: 3h, 4d, 4s, 5d, 6h, 6s, 7d, jc, jd
+Player 2
+	Added: jh
+	Discarded: jh
+	Hand now: ad, ah, 2c, 4h, 7h, js
+Player 1
+	Added: jh
+	Discarded: jc, jd, jh, 5d
+	Hand now: 3h, 4d, 4s, 6h, 6s, 7d
+Player 2
+	Added: 3c
+	Discarded: js, 2c
+	Hand now: ad, ah, 3c, 4h, 7h
+Player 1
+	Added: qs
+	Discarded: qs
+	Hand now: 3h, 4d, 4s, 6h, 6s, 7d
+Player 2
+	Added: th
+	Discarded: th, 3c
+	Hand now: ad, ah, 4h, 7h
+Player 1
+	Added: 3c
+	Discarded: 7d
+	Hand now: 3c, 3h, 4d, 4s, 6h, 6s
+Player 2
+	Added: 7d
+	Discarded: 4h
+	Hand now: ad, ah, 7d, 7h
+Player 1
+	Added: 4h
+	Discarded: 4d, 4h, 4s, 6h
+	Hand now: 3c, 3h, 6s
+Player 2
+	Added: 9s
+	Discarded: 9s
+	Hand now: ad, ah, 7d, 7h
+Player 1
+	Added: 8d
+	Discarded: 8d
+	Hand now: 3c, 3h, 6s
+Player 2
+	Added: 8h
+	Discarded: 8h
+	Hand now: ad, ah, 7d, 7h
+Player 1
+	Added: 2s
+	Discarded: 6s
+	Hand now: 2s, 3c, 3h
+Player 2
+	Added: 7s
+	Discarded: 7d, 7h, 7s, ah
+	Hand now: ad
+Player 1
+	Added: kd
+	Discarded: kd
+	Hand now: 2s, 3c, 3h
+Player 2
+	Added: 5s
+	Discarded: 5s
+	Hand now: ad
+Player 1
+	Added: kh
+	Discarded: 2s
+	Hand now: 3c, 3h, kh
+Player 2
+	Added: 8s
+	Discarded: 8s
+	Hand now: ad
+Player 1
+	Added: ks
+	Discarded: kh
+	Hand now: 3c, 3h, ks
+Player 2
+	Added: 4c
+	Discarded: 4c, ad
+	Hand now: 
+Points: 16 to 0
+Player 2 Wins!
