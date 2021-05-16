@@ -1,8 +1,8 @@
 # Project 2: Rummy Card Game
 
-Javier Santiago
-University of Puerto Rico, Río Piedras
-Department of Computer Science
+Javier Santiago  
+University of Puerto Rico, Río Piedras  
+Department of Computer Science  
 CCOM-4029
 
 
